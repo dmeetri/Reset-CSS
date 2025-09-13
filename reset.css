@@ -28,6 +28,7 @@ select {
   background: none;
   border: none;
   outline: none;
+  appearance: none;
 }
 input,
 button,
